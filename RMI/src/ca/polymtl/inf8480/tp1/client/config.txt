@@ -1,0 +1,7 @@
+##ServerIP;port;capacite (qi) 
+
+
+
+##L4712-21 -- local
+localhost;5002;2
+
