@@ -2,7 +2,7 @@
 It's about RMI sample with distributed system.
 
 # The commands below present the basic commands for executing this project.
-  1.ant clean »  then « ant » to build.
+ ### 1.ant clean »  then « ant » to build.
   2.	cd bin
   3.	rmiregistry &
   4.	cd ..
