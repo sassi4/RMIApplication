@@ -14,5 +14,5 @@ It's about RMI sample with distributed system.
       #####    ii.	-q la capacité 
       #####    iii.	-p le port
   ### 7.	To start the load balancer :
-        ##### a.	 ./client.sh <operationfilename> (-u ou -s)
+        a.	 ./client.sh <operationfilename> (-u ou -s)
             ##### i.	In the absence of the "u" or "s" parameters, the secure mode is selected by default.
